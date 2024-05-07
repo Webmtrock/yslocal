@@ -1,0 +1,166 @@
+
+.yst-btn-logout{
+	background: #22C55E;
+    color: #2d2d2d;
+    padding: 12px 25px;
+    border-radius: 7px;
+    font-weight: 600;
+}
+
+.dashboard .container .row .col-md-5 .dashboard-button{
+    width: 340px;
+   font-size: 25px;
+   font-weight: 400;
+   font-family: poppins;
+   color: black;
+   border: 1px solid #22C55E;
+   border-radius: 10px;
+   height: 70px;
+   padding-top: 13px;
+   padding-left: 10px;
+   margin-top: 10px;
+ }
+ .dashboard .conteiner .row .col-md-5 .dashboard-button img{
+     width: 45px;
+     height: 45px;
+     
+ }
+.dashboard{
+    height: auto;
+}
+.dashboard .container h3{
+
+    margin: 60px;
+    font-size: 40px;
+    display: inline-block;
+    font-weight: 400;
+    font-family:poppins ;
+}
+
+.dashboard .container .row .col-md-5 .yst-btn  {
+    background: #22C55E;
+    height: 70px;
+    width: 340px;
+   margin-top: 10px;
+    font-size: 25px;
+    font-weight: 400;
+    font-family: poppins;
+    border: 0.2px solid  #22C55E;
+    color: #fff;
+ 
+}
+.dashboard .container .row .col-md-5 i{
+    height: 45px;  
+    width: 45px;
+    color: #F9D121;
+   
+
+}  
+.dashboard .container .row .col-md-5 .dashboard {
+    float: left;
+    height: 70px;
+    width: 340px;
+    font-size: 25px;
+    font-weight: 400;
+    font-family: poppins;
+    border: #22C55E;
+    color: #000;
+    border: 0.2px solid  #22C55E;
+}
+.dashboard .container .row .col-md-5 .dashboard img{
+    height: 45px;  
+    width: 45px;
+    color: #F9D121;
+ 
+   
+
+}  
+.dashboard .container .row .col-md-7 p{
+   font-size: 18px;
+   font-weight: 400;
+   font-family: poppins;
+   margin-top: 40px;
+}
+.dashboard .container .row .col-md-7 p{
+    font-size: 18px;
+    font-weight: 400;
+    font-family: poppins;
+    margin-top: 40px;
+ }
+.dashboard .container .row .col-md-7 button{
+    background-color: #22C55E;
+    color: white;
+    width: 169px;
+    height: 52px;
+    border: none;
+    border-radius: 26px;
+    font-weight: 600;
+    font-size: 16px;
+    font-family: poppins;
+}
+.dashboard .container .row .col-md-7 .doctor{
+    color: #22C55E;
+    display: block;
+}
+.dashboard .container .row .col-md-7 .yst-btn{
+    border-radius: 40px;
+    color: #595959;
+    font-size: 16px;
+    font-weight: 400;
+
+
+
+}
+#Starts{
+    font-family: poppins;
+    font-weight: 400;
+    font-size: 20px;
+    float: right;
+    padding-right: 220px;
+    padding-top: 17px;
+ 
+
+}
+#video
+{
+    float: right;
+    color: #F9D121;
+    font-family: poppins;
+    font-size: 20px;
+    font-weight: 400;
+}
+#more{
+    background:#22C55E;
+    color: #fff;
+    font-weight: 600;
+    font-size: 16px;
+    font-family: poppins;
+    float: right;
+   
+    
+}
+.dashboard .container .row .col-md-7 .form{
+    height: 51px;
+    width: 100%;
+    border: 1px solid #F9D121;
+    border-radius: 8px;
+    margin-top: 20px;
+    padding-left: 10px;
+
+}
+.dashboard .container .row .col-md-7 #input{
+    height: 49px;
+    border: 1px solid #F9D121;
+    width: 94%;
+    border: none;
+    float: right;
+    border-radius: 8px;
+}
+.dashboard .container .row .col-md-7 img
+{
+    width: 5%;
+    height: 31px;
+    text-align: center;
+    margin-top: 10px;
+   
+}
